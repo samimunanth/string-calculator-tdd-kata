@@ -11,3 +11,4 @@ def add(numbers):
         if part:
             result += int(part)
     return result
+
